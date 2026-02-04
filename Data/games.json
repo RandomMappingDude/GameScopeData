@@ -86,7 +86,7 @@
         "Date": "4/26/2025",
         "Title": "Update 1.03.0",
         "Updates": [
-          "A new angry plant implemented - you can feed it crops and complete quests, rewarding limited seed packs sometimes",
+          "A new angry plant implemented - you can feed it crops and complete quests, sometimes reqarding limited seed packs",
           "New mushroom, venus flytrap, lotus, eggplant, durian, cranberry and rainbow seed crops have been added",
           "New snow weather added",
           "New chilled and frozen mutations are added",
@@ -97,6 +97,31 @@
           "Tooltips added, you can hover over the hotbar for more info",
           "Daffodil, rasberry and pineapple seeds are buffed",
           "Grapes are no longer hard to harvest when large"
+        ]
+      },
+      {
+        "Date": "4/29/2025",
+        "Title": "Update 1.03.1",
+        "Updates": [
+          "Carrot mutations are made more consistent",
+          "Eggplant quest is removed",
+          "Some bug fixes / minor changes are added"
+        ]
+      },
+      {
+        "Date": "3/5/2025",
+        "Title": "Update 1.04.0",
+        "Updates": [
+          "Free panda pet is added for only 1 hour",
+          "New pet egg store and pet system is added",
+          "New pepper crop is added",
+          "New exotic bug, bug, common, uncommon, rare and legendary eggs are added",
+          "Sprinklers can now stack inside of your inventory",
+          "The players default walk speed has been increased",
+          "The daily quests menu has now been moved to the gear shop NPC",
+          "Changes to improve performance have been added",
+          "Changes to improve auto-collecting have been added",
+          "Jim the angry plant NPC has been added, including a countdown"
         ]
       }
     ]
