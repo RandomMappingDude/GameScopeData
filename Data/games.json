@@ -1,127 +1,19 @@
 {
   "7436755782": {
-    "Name": "[🥚] Grow a Garden 🌶️",
-    "Created": "3/25/2025",
-    "Updated": "1/10/2026",
-    "Rank": "6",
-    "Genre": "Simulation",
-    "LikeRatio": "89%",
-    "Favourites": "10.3 Million",
-    "DataFrom": "01/11/2026",
+    "Name": "Brookhaven 🏡RP",
+    "Created": "04/21/2020",
+    "Dev": "Brookhaven by Voldex",
+    "DevType": "Group",
+    "Genre": "Roleplay & Avatar Sim",
+    "LikeRatio": "86%",
+    "Favourites": "25.8 Million",
+    "DataFrom": "14/02/2026",
     "Updates": [
       {
         "Date": "3/25/2025",
         "Title": "Update 1.00.0",
         "Updates": [
           "Grow a Garden is first released"
-        ]
-      },
-      {
-        "Date": "4/10/2025",
-        "Title": "Update 1.01.0",
-        "Updates": [
-          "New bamboo, cactus, mango, peach, pineapple and rasberry crops are added",
-          "New rain and lightning weathers are added",
-          "New daily quest and gear shop stands are added",
-          "New basic sprinkler, advanced sprinkler, godly sprinkler and seed pack items are added",
-          "You can now hold E on a keyboard or the harvest button on mobile to harvest crops",
-          "You can now right click on a keyboard or tap and hold on mobile to favourite to favourite crops. These items wont be sold when uou sell all.",
-          "For every friend that is in your game you get 10% more money",
-          "You can now hover over a crop to see the % of its growth",
-          "When using the shovel item, the crop that is going to be removed is now highlighted",
-          "Some fixes to try and prevent duping have been added"
-        ]
-      },
-      {
-        "Date": "4/12/2025",
-        "Title": "Update 1.01.1",
-        "Updates": [
-          "Some bug fixes / minor changes are added"
-        ]
-      },
-      {
-        "Date": "4/13/2025",
-        "Title": "Update 1.01.2",
-        "Updates": [
-          "Some bug fixes / minor changes are added"
-        ]
-      },
-      {
-        "Date": "4/20/2025",
-        "Title": "Update 1.02.0",
-        "Updates": [
-          "An NPC named Poppy is added, including an exclusive quest",
-          "New exclusive Easter items are added, including the candy blossom, chocolate sprinkler, easter egg, candy sunflower, red lollipop and chocolate carrot",
-          "New grape, cursed fruit, soul fruit, passionfruit, banana, papaya, daffodil and orange tulip crops are added",
-          "The new choc mutation is added, given to crops when they are in the range of a chocolate sprinkler",
-          "New exotic seed pack and master sprinkler items are added",
-          "Autocollect is now much more efficient on PC and mobile, with cleaner UI and sounds",
-          "New gold texture added",
-          "New badges added",
-          "Major improvements to Grow a Garden on console",
-          "Added gifting to other players",
-          "Revamped much UI",
-          "New confirm prompt for when you remove crops",
-          "New shop added",
-          "Some data issues fixed",
-          "You can now hover over on PC or tap and hold on mobile on a sprinkler to see its range and remaining time",
-          "Notifications are improved",
-          "Fixed visuals on some crops",
-          "Fixed some duplicating issues",
-          "Fixed a bug where crops are too large to harvest",
-          "The peach and rasberry base prices are increased",
-          "Fixed some issues with crop selling",
-          "Various changes made to sprinklers",
-          "Improvements on the gift feature"
-        ]
-      },
-      {
-        "Date": "4/21/2025",
-        "Title": "Update 1.02.1",
-        "Updates": [
-          "Some bug fixes / minor changes are added"
-        ]
-      },
-      {
-        "Date": "4/26/2025",
-        "Title": "Update 1.03.0",
-        "Updates": [
-          "A new angry plant implemented - you can feed it crops and complete quests, sometimes reqarding limited seed packs",
-          "New mushroom, venus flytrap, lotus, eggplant, durian, cranberry and rainbow seed crops have been added",
-          "New snow weather added",
-          "New chilled and frozen mutations are added",
-          "New trowel, lightning rod, rainbow seed pack, premium seed pack and basic seed pack items are added",
-          "Crops and placed gear now save when leaving and rejoining",
-          "When harvesting crops, you now have a chance to get an extra seed",
-          "Mobile haptic touch added when collecting crops",
-          "Tooltips added, you can hover over the hotbar for more info",
-          "Daffodil, rasberry and pineapple seeds are buffed",
-          "Grapes are no longer hard to harvest when large"
-        ]
-      },
-      {
-        "Date": "4/29/2025",
-        "Title": "Update 1.03.1",
-        "Updates": [
-          "Carrot mutations are made more consistent",
-          "Eggplant quest is removed",
-          "Some bug fixes / minor changes are added"
-        ]
-      },
-      {
-        "Date": "3/5/2025",
-        "Title": "Update 1.04.0",
-        "Updates": [
-          "Free panda pet is added for only 1 hour",
-          "New pet egg store and pet system is added",
-          "New pepper crop is added",
-          "New exotic bug, bug, common, uncommon, rare and legendary eggs are added",
-          "Sprinklers can now stack inside of your inventory",
-          "The players default walk speed has been increased",
-          "The daily quests menu has now been moved to the gear shop NPC",
-          "Changes to improve performance have been added",
-          "Changes to improve auto-collecting have been added",
-          "Jim the angry plant NPC has been added, including a countdown"
         ]
       }
     ]
